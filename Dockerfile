@@ -1,6 +1,6 @@
 # Dockerfile for a simple Flask application
 
-FROM python:2-onbuild
+FROM python:3-onbuild
 
 EXPOSE 8000
 
